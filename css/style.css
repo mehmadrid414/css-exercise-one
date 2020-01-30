@@ -42,3 +42,27 @@ h3 {
   margin 10px 0;
   width: 100%;
 }
+
+/* element-1 */
+.element {
+  background-color: #33FFF9; 
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
+
+/* element-2 */
+.element {
+  background-color: #337AFF; 
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
+
+/* element-3 */
+.element {
+  background-color: #9933FF; 
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
