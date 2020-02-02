@@ -16,6 +16,7 @@ nav {
 section {
   margin: 0 auto;
   width: 60%;
+  padding-top: 10px;
 }
 
 /* heading 1 */
@@ -45,22 +46,6 @@ h3 {
 
 /* element-1 */
 .element-1 {
-  background-color: #337AFF; 
-  height: 100px;
-  margin 10px 0;
-  width: 100%;
-}
-
-/* element-2 */
-.element-2 {
-  background-color: #337AFF; 
-  height: 100px;
-  margin 10px 0;
-  width: 100%;
-}
-
-/* element-3 */
-.element-3 {
   background-color: #337AFF; 
   height: 100px;
   margin 10px 0;
