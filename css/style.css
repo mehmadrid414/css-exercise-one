@@ -7,10 +7,10 @@ body {
 nav {
   background-color: #FFFF00;
   height: 100px;
-  margin-top: 0px;
+  margin-top: -10px;
   position: fixed;
   width: 100%;
-  padding: 0px;
+  padding-bottom: 30px;
 }
 
 /* section */
@@ -44,6 +44,7 @@ h3 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+  padding-top: 30px
 }
 
 /* element-1 */
